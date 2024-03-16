@@ -37,31 +37,31 @@ class _ScienceQuizAppState extends State {
     },
 
     {
-      "questions": "Which organ in the human body is the largest?",
+      "question": "Which organ in the human body is the largest?",
       "options":["Hand","Leg","spiral Cord","Skin"],
       "answerIndex": 3,
     },
 
     {
-      "questions":"What is the total number of elements in the periodic table? ",
+      "question":"What is the total number of elements in the periodic table? ",
       "options":["118","117","119","121"],
       "answerIndex": 0,
     },
 
     {
-      "questions":"Which blood type is referred to as the universal donor? ",
+      "question":"Which blood type is referred to as the universal donor? ",
       "options":["O+","O-","A+","Option A And B"],
       "answerIndex": 1,
     },
 
     {
-      "questions":"How many degrees in Fahrenheit does a room temperature have? ",
+      "question":"How many degrees in Fahrenheit does a room temperature have? ",
       "options":["36","18","72","Option A And C"],
       "answerIndex": 2,
     },
 
     {
-      "questions":"What is the solar systems biggest star?",
+      "question":"What is the solar systems biggest star?",
       "options":["moon","sun","mars","Jupyter"],
       "answerIndex": 1,
     },
